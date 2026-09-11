@@ -1,0 +1,295 @@
+
+
+===== PAGE 1 =====
+
+4r ?> 06
+Gine ,
+Gcvuot"
+3iony/#t @l
+84
+JEC1Q1 Communlcallon SpMtems-F  ab
+4z
+19
+(c4z
+TV
+Clrcuit
+Amplitude Moduladon and Demodulatlon
+SarcLoi ( ommuaicailun
+Experiment No: [
+Vova
+Xr2z00
+9*<e
+0479
+10
+Im: To conduct
+4n
+Cd
+Rd
+P
+16
+Apparatus requires
+1
+So.
+220_5
+R4
+Vcc
+13
+2
+J3k
+12
+11
+Va
+10
+Procedure
+1
+Connec
+6
+2
+With
+3 ,
+Obser
+Specifications:
+fc
+100 KHz
+4
+Appl:
+1
+R
+5
+Adju
+fc
+=
+X
+1 +
+(1 _
+Vc))
+Tefer
+RC
+R1
+3
+When Vc is 3V, Unmodulated carrier frequency
+100 KHz
+6_
+Obs
+RC
+Assume C
+=
+0.001uF, then R
+IOKQ
+Envelope detector:
+7
+Me
+J
+> Rd Cd >
+1
+th
+fn
+fc
+=IKHz and f=100 KHZ, then
+1 msec
+>RaCd > 0.1 msec
+Let RaCd
+0.2msec
+8
+If Cd
+=
+0.001uf; then Ra = 200KS
+9
+Select Rd
+220KQ
+Cd =
+0.001uf
+10
+Tabular Column:
+Vm
+Modulation:
+SL
+nnx
+Von
+Vm = Vu
+Vmn
+Vm + Va
+H =
+Vc =
+Mn
+No.
+(Volt)
+(Volt)
+V
++V
+2
+2
+nax
+mn
+(Volt)
+(Volt)
+2.64
++m
+0 .
+0.6 6
+1.38
+2
+0.467
+0 .6 6
+1,42
+3_
+3
+0,48 6
+0
+72
+A8
+Department of E&C
+SIT. Tumakuru
+Jou
+Semrt
+Dingrnmn:
+bt
+c isuil
+Rrb
+cooplrod
+Rrd
+Design:-
+% H
+Vmax
+Vmin
+418
+2 .28
++6om
+2 . 20
+Gom
+Engg:
+
+===== PAGE 2 =====
+
+Semeder
+SAECLOA Cemmuntcatlon Syslema-|
+ak
+Date:
+Experlment No. 1
+Amplltude Modulation and Demodulatlon
+Im: To conduct an experiment ( generale Ihe AM signal and t0 demodulate the AM <i
+Apparatus required:
+SL
+Apparatus
+Range
+Nos
+No.
+Components
+Ic XR22O6
+2
+Resistor and
+As per the
+design
+Capacitors
+Diode OA79
+Adapters
+Procedurc
+1
+Connections are made as shown in circuit diagram:
+2
+With m()=0, apply DC +IZV (+ Vcc)
+3 ,
+Observe unmodulated carrier at pin no 2(point A)
+4.
+Apply sinusoid message signal with minimum
+that
+of the message is
+above
+5.
+Adjust the DC offset of the ASG, so
+reference
+6_
+Observe Amplitude modulated ouput at Pin no 2(Point A)
+7
+Measure Vmax
+Vmin from the AM signal and hence find the modulation index *H'
+the
+amplitude of the carrier signal Vc and the amplitude of the message signal Vm
+(Also measure Vmax and Vmin ftom the Trapezoidal waveform)
+8.
+By varying amplitude of the modulating signal, repeat step 7_
+9_
+Plot the graph of
+vls Vm_
+10. Connect the Envelope detector circuit and observe the demodulated signal at
+B'
+and compare it with m (t).
+9enette
+covwres ( €c)
+2
+Siq nal
+(ar Afave
+3
+demaddote
+Mcc) =
+t62
+K42
+fst
+~ >Usr
+opocp
+Poc 3
+8
+Department OfE&C
+SIT, Tutukuru
+572 103
+Enal
+amplitude
+peak
+negative
+%h -
+point
+messoae
+Vcc
+90 -
+F4y/
+apa 4
+Engg:
+3( 2 "
+
+===== PAGE 3 =====
+
+SaF( 1 01 ( ommunication Sstems-|  nb
+Demodulation:
+Transfer Characterlsdle
+840
+SL
+(m
+Vo
+fo
+Jot
+No.
+in Hz
+in Volt
+in Hz
+309
+0
+68
+31 |
+U 84
+0 .3
+486
+Vmax
+$
+( (5
+( 3'
+64J
+Waveform
+m(t) (with DC shil)
+om
+Lve
+Mct
+"p
+0<
+dsxk
+c()
+WAMAAAHW
+Vmax
+Vmin
+AM Wave
+Demodulated
+wave
+Tngut Ofe0 Eope
+Scnttt;
+(une
+Von
+Kec

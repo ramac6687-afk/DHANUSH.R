@@ -1,0 +1,28 @@
+{
+    "experiment_number": 1,
+    "title": "Amplitude Modulation and Demodulation",
+    "source_pages": [
+        1,
+        2,
+        3
+    ],
+    "source_images": [
+        "experiments/experiment_1/page_1.png",
+        "experiments/experiment_1/page_2.png",
+        "experiments/experiment_1/page_3.png"
+    ],
+    "content": {
+        "aim": "",
+        "apparatus": [],
+        "theory": "",
+        "circuit_description": "",
+        "design_calculations": "",
+        "specifications": {},
+        "procedure": [],
+        "observation": "",
+        "expected_waveforms": "",
+        "demodulation": "",
+        "result": ""
+    },
+    "important_note": "The original page images are retained as the authoritative source. OCR text is an intermediate representation and may contain recognition errors."
+}

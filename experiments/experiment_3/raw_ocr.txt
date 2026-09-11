@@ -1,0 +1,222 @@
+
+
+===== PAGE 7 =====
+
+IV
+SAECLOI €ommunicatlon SyMtcms-!Lab
+Circuit Diagram:
+m(t)
+Rc
+PAM olp
+Demodutated
+Signal
+Rb
+R
+SL1OO
+C()
+Pulse Amplitude Modulation
+Demodulation
+Design:
+=
+0.7V   (assume
+Specifications: -
+Ic
+ImA, hFE
+=
+100, VcEsat
+=
+0.3
+V, VBEsat
+fm=] OOHz.
+1.
+Biasing:
+Vm(t) = Ic *Rc +
+Let
+=
+2.5 Vpp + 3v DC shift = 5.5 V
+signal
+Then Rc = 5.2 kS, select Rc = 4.7 k O(std. Value)
+=
+Ie*RB + VBesat
+Let
+=2 Vpp ( 1 V
+)
+Since IB = Ic
+hFE = ]OuA
+Then RB = 30 k 9
+Select RB
+=
+22 k 9 (Std. Value):
+2.
+Filter:
+Cut off frequency of the filter fo >> fm
+Choose fo = 500 Hz = 1 / (2 T RC)
+Choose € = 0.luF, then R = 3.3k0
+Rc = 4.7 K 9 RB
+22k 0, R = 3.3k
+9,C = 0.luf
+Check Points:
+1.
+Ensure that square wave signal
+at the
+of
+amplitude
+>
+Vy:
+the
+2
+Ensure that
+should have
+m(t) is
+dc shift.
+~t_
+VcEsat
+peak
+Vm()
+Vc ()
+Vc() =
+peak
+base
+transistor
+having
+sufficient
+
+===== PAGE 8 =====
+
+IV Scmester
+SECLOI (ommunicalion Sstems-[ Lab
+Date:
+Experiment No: 3
+Pulse Amplitude Modulation and Demodulation
+Aim:
+To design a circuit for generation and demodulation of PAM:
+Apparatus Required:
+ToanSis,= 6
+Range
+Nos
+uSay
+0 5
+60 4ck
+SI
+No.
+A
+pparatus
+Transistor SLIOO
+<ul
+Of^
+2
+Resistors
+22Kn
+4.7KO
+;
+Solve
+~~
+~lese)
+3.3KQ
+3
+Capacitors
+0.1pF
+2
+Adapters
+Procedure:
+Connections are made as shown in the circuit diagram
+13
+wave carrier signal of 2V
+to
+amplitude with
+2
+Apply the square
+frequency fc = 25 kHz.
+modulating signal with frequency fm
+=
+100 Hz with
+3_
+Apply sine wave
+and 3V DC shift (ensure negative
+of the message
+5 Vpp
+is above the reference)
+4
+Observe the PAM
+output:
+demodulated signal at the output of the low pass filter and
+5.
+Observe the
+compare it with the modulating signal
+~bdolaton
+->a
+Result:
+mt
+Can (naoo$
+~culafa
+Dov r
+peak
+peak
+peak
+amplitude
+Fo/se
+
+===== PAGE 9 =====
+
+SECL 01 Commenication
+Lab
+Tabular
+SI
+volts
+fc
+Vo(pp)
+DC
+fm (Hz)
+shift
+L, LAov
+fo
+S0k
+(0   O
+4 .40
+104. 2
+4
+2 0.5ok
+(0 .00
+5v
+12 ? .42
+12 2
+~Sa
+4.2 Ov
+5
+24
+Hz.
+OT
+Syelems-|
+Column:
+Semestet
+No:
+Vc(pp) -
+(Hz)
+Reconstructed
+output
+signal
+2 0 -
+(Hz)
+404 2
+4z
+Luov
+133
+2 0.5 ( <
+( 0 . k
+4z
+
+===== PAGE 10 =====
+
+0t10i
+'bnimtatcotiet <i ttcirt
+ah
+3t40t
+Doverm i0us :
+(a)Alxlulatmg sgnal m ()
+Ittd
+(6)C arrier Signal €()
+(c)PAM Signal
+(d) Demodulated signal
+Iaference:
+Date;
+Signature oxxhe StatY in charge

@@ -1,0 +1,40 @@
+{
+  "band_pass_filter": {
+    "name": "Band Pass Filter",
+    "formula": "fc = 1 / (2 * pi * R * C)",
+    "expected_result": "Maximum output should occur near the center frequency.",
+    "common_faults": [
+      "Wrong capacitor value",
+      "Wrong resistor value",
+      "Grounding issue",
+      "Incorrect circuit connections"
+    ]
+  },
+
+  "voltage_divider": {
+    "name": "Voltage Divider",
+    "formula": "Vout = Vin × R2 / (R1 + R2)",
+    "expected_result": "Output voltage should match the calculated voltage divider value.",
+    "common_faults": [
+      "Wrong resistor value",
+      "Incorrect resistor connections",
+      "Incorrect input voltage",
+      "Grounding issue",
+      "Loose circuit connection"
+    ]
+  },
+
+  "led_circuit": {
+    "name": "LED Circuit",
+    "formula": "I = (Vs - Vf) / R",
+    "expected_result": "The LED should glow when connected with correct polarity and a suitable current-limiting resistor.",
+    "common_faults": [
+      "LED connected in reverse polarity",
+      "Wrong resistor value",
+      "LED damaged",
+      "Incorrect circuit connections",
+      "No power supply",
+      "Grounding issue"
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+
+
+===== PAGE 19 =====
+
+m4f(10i ( ommunlallon Sycms-| Lnh
+IV
+ASK" modulation and demodulation:
+8".TtNulr. <
+TXulli Plev
+CD40SI
++ISv
+1
+1
+14
+#kt}
+NC
+C(o
+2
+3
+NC
+p
+8
+NC
+Rd
+I
+Cq
+1
+6
+NC
+09h}
+5
+Nc(
+NC
+Idete
+Cdra
+A15V
+10
+M1
+I
+m(o)
+I.
+8 '. |
+Mu>
+If
+Sz Sj
+9
+13
+6
+14`
+(+
+9
+Semettey
+Analod
+eexhms =
+14
+H54
+YcJ
+14t9
+
+===== PAGE 20 =====
+
+6Atealre
+SF( L.0/ ( mmmumicailom *beme
+Ivmie'
+Experluent No
+A
+mplltude Nhin Kevinm
+munlulmtum
+4tid
+Almn :
+To
+conduci
+Hmi
+expeiimien
+io
+Mdy
+Ampllude
+Shlll
+K"yink
+demodulation and t0 determine the mlnlmnum #requency for proper detec ttm
+Apparalus:
+(Qummiiy
+Kkuwge
+SLNo
+Alluralus
+Ic 741
+2
+IC 4051
+3
+Diode QA79
+100 K()
+Resistors
+10 KS)
+5
+POT
+0,0i
+6
+Capacitor
+Procedure:
+as shown in the
+circuit diagram,
+10 V
+{0
+1 =
+Connections are
+of 500 Hz (IOO0 bits/sec).
+wave modulating signal
+2
+Apply a square
+of 50 KHz, 5
+V
+peak-to-pcak
+a sine wave carrier signal
+3.
+Apply
+no 3 of IC
+4
+Observe ASK waveform at pin
+detector and comparator:
+the ASK signal using the envelope
+adjusting the Vref using
+5
+Demodulate
+can be
+minimized by
+error in the
+demodulated waveform
+10 KS POT}
+0(5
+< &e)
+ask
+HH#
+Ft
+ah
+M F
+peak
+pcak
+made
+amplitude.
+amplitude.
+4051.
+{The
+
+===== PAGE 21 =====
+
+941 ( 101 ( amtnualratier Aystems-| 1.3h
+Deslgn:
+Envelope DDetcctor:
+1/ Im
+RuCD
+Mfc
+$ ms
+RoCp
+20 Hs.
+Let RoCp
+500
+fc
+1
+ms;
+Ro
+2
+IK [2
+Assume Cp
+2
+0.01 p F, then Ro = [00 K f2
+Choose
+Ro
+100 KI2, Cp =0.01/ F
+Check Points
+1
+Check the OP AMP
+Transistor and Diodes.
+detector 0 p at poin A
+2
+Vref should be between the voltage swing of envelope
+Tabular Column:
+Vc
+Fc
+Vm
+fm
+Error in Detection
+Volts
+Hz
+Volts
+Hz
+ms
+Sv
+Si.45
+iov
+506 Hz
+(00 4s
+
+===== PAGE 22 =====
+
+tn
+HNHAAHHHH
+HAAA
+AAAA
+Tk
+Vre{
+@xvclepspxo0
+pna
+Deeoatttor
+loluluth

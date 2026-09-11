@@ -1,0 +1,304 @@
+
+
+===== PAGE 4 =====
+
+Yp(
+Qi
+"mmnuaicatwm Nisicie
+"nulg Iinnemin:
+10
+Fmoupu
+16
+ME(1.01 ('emmunical
+Ri
+W
+14
+Experlment No
+33K
+79i<
+Vcc
+13
+Alm:
+To
+cond
+XR2208
+mnodulation ind
+12
+Apparatus re
+11
+R
+0.Juf
+10
+0 IuF
+Ri
+M
+10k
+M(u)
+Procedue
+Modula-
+1
+2
+Specifications:
+fc
+100 KHz
+3
+fc =
+R
+RC
+1+ Ri (1 _
+V
+When Vc is 3V, Unmodulated
+carrier
+frequency =
+=
+=
+100 KHz
+Assume €
+0.00IF, then R =
+RC
+IOKQ
+Ri =
+1OKO
+Tabular Column:
+(42
+Vm
+fc
+fm
+in Hz
+in V
+in Hz
+fc max
+fc min
+(m(t)
+nmplltude
+in Hz
+in Hz
+Af
+8 = Af
+Bt = 24f
+fm
++2fm
+1.5
+SK
+in Hz
+1OOK
+1OK
+12
+2624k/
+4vou8
+8k<
+Sk
+SK
+#yL
+8ur
+2,784
+3
+58
+35.68fc
+LOK
+'36K
+[pa6k
+13
+SK
+Lew
+4oa
+IOK
+Isg
+3k
+(3.6 I<|
+3
+SK
+I38,k]
+2847
+76 .8k
+IOK
+8.4
+Af =
+Ja4,2k
+loyk .
+MAX
+(fc
+fc
+5
+MIN) }
+of
+E&C Enos
+270
+Vcc
+Design:
+Xc? "
+47
+{6k4
+Rc =
+KAz
+u-(k
+4642K
+50.u
+21
+14294
+B2k
+45.3t"
+4-06
+Sc.&4
+(0(,s6k<
+166 +kl
+125k.
+94 +H
+L9y
+ISOK
+5,4k
+2L4k:
+(Dok
+Lzk
+(913ki
+MAX{(fc
+Sok
+fc)
+4e0
+Department
+
+===== PAGE 5 =====
+
+IV Semcster
+SECLOI Communication Systems-| [ab
+Date:
+Experiment No. 2
+Frequency Modulation
+Aini:
+To conduct
+an
+experiment
+to
+generate  FM
+and
+to
+measure
+frequency  deviation,
+modulation index and transmission bandwidth:
+Apparatus required:
+Sl:
+Apparatus
+Range
+Nos
+No.
+Components
+1
+IC XR2206
+Resistor and
+As per the design
+2
+Capacitors
+3
+5_
+Adapters
+Procedure:
+Modulation:
+Connections are made as shown in the circuit diagram:
+1a
+2 
+With m()-0, apply DC +1ZV (t Vcc)
+and note down the carrier sine wave of
+unmodulated carrier at pin no 2,
+3 _
+Observe
+frequency (fc)
+undistorted
+with suitable amplitude and frequency to
+4
+Apply the modulating signal
+FM signal.
+of the carrier in FM signal (i.e , fc max
+5.
+Note the maximum and minimum frequency
+fcmin)
+deviation, modulation index &
+bandwidth.
+6
+Find the frequency
+different values of
+Vm and fm
+7
+Repeat the steps 4 to 6 for
+4<
+ISokHz
++ (1 # 6'-9))
+158k
+('_k ('~))
+rxo eoid
+r=
+6 .6k
+28
+6 &c .
+get
+and
+operation
+Pc =
+Ioic
+
+===== PAGE 6 =====
+
+SJECL.OI
+4(
+JI
+Waveform
+"feren
+77
+5
+0.014
+0.016
+0.018
+"0.008
+0.01
+0.012
+0.002
+0.004
+0.006
+4z
+0
+8
+-10
+0.002
+0.004
+0.006
+0.008
+0.01
+0.012
+0.014
+0.016
+0.018
+10
+3
+2
+4eh
+-10
+0.002
+0.004
+0.006
+0.008
+84pot
+0.012
+0.014
+0.016
+0.018
+0.02
+Time
+phes c
+Oc
+hovc
+AXax
+Qo
+c9dcs
+De
+Kco
+Lnh
+9emi-|
+Communication
+5k<+7
+0l< Wz
+Iosk
+0.02
+#herc
+mcas
+4 eov
+cjc
+Scinz

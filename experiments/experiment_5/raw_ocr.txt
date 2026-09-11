@@ -1,0 +1,264 @@
+
+
+===== PAGE 15 =====
+
+Iv
+5
+Ub
+SFCI 01
+Commuaication
+SAECLUI Cou
+Circuit Diagram:
+Experime
+Sm
+Sample and
+Signal
+Alm: Tc
+Point A
+signal .
+Flat
+Sampled
+Appar
+IC4016
+Point B
+Rc
+Analog Switch
+1k0
+SLNc
+CH
+O.1uf
+2
+Output
+3
+13
+R
+Re
+SLIOO 3.3k0
+MV
+18kn
+m(t)
+Pr
+O.1uF
+1.15 Vpp
+c(t)
++0.6 V DC
+8 Vpp
+2
+100 Hz
+No
+Jesiglae V-eperd
+37
+to
+&m i€t <<
+Design:
+#)Biasing
+Specifications: Vc-8Vpp, Vm-1.lVpp+O.6v DC Shift
+Assume hfe-30,
+F0.TV, VcESat-0.3V, Ic-lmA, IE= Ic
+Vsampledpeak-Ic*Rc+VCEsat
+L5-lmA*Rc+0.3
+Rc-8500, Choose Rc-IKQ
+Vcpeak-IBRe+V BEsat=(Ichhfe) RB+VBEsat
+4V={ImA/3O}xRe+0.7
+Then RBMAX-99 KO, choose Ru= 18 KQ
+b) Low pass filter
+Since fm= |00
+choose cutoff frequency of the filter fo= 500 Hz
+fo =
+I/21RC
+Choose € = 0.IF then R = 3.3 Kn
+Rc-IKO, RB
+=
+18 KO,R-3.3
+Sene
+stems-(
+Tmp
+Hold
+Top
+Slgnal
+Demodula
+VBEsat
+Hz,
+Ko,C-CH-O.luF
+
+===== PAGE 16 =====
+
+Aocm
+4~He_
+Xampi $
+L=
+740
+S4ECLOI Communication Sslems-|
+0=
+70
+Ast
+67.
+ab
+{7i4
+IV
+Smesiet
+Experiment No. 5
+Dute:
+iL
+1_
+Flat
+Sampling
+Cen
+1+64
+9136
+Ut
+Alm:
+To study sampling theorem
+Flat
+Samples and t0 demodulate
+{zolI:4
+kou
+signal_
+264)
+Apparatus:
+SLNo
+Appuratus
+Rangc
+Quuntity
+IC 4016
+3
+Transistor SLIOO
+Resistors
+18KQ
+3.3 Kn
+KQ
+30<
+01
+Capacitor
+0.JuF
+ot
+4
+0€
+Pte (<
+carfc *
+Procedure:
+1. Connections are made aS shown in the circuit diagram
+2. Apply a square wave
+sampling signal of 1KHZ, 8V
+to
+amplitude
+3 . Apply a sine wave
+modulating signal of 100 Hz, LY
+to
+with 0.6 Volts
+L
+7
+6
+DC shift.
+4. Observe PAM signal at pointA by disconnecting the Hold
+capacitor CH:
+5
+Observe the sample and hold signal at
+A after
+connecting the capacitor CH:
+6. Observe Flat top Sampled Signal at
+B
+Verification of Sampling Theorem:
+a)
+Over Sampling
+1.
+Adjust fc>2fm, Let fc= 50 KHz
+the   low
+pass   filter of cutoff  frequency
+500
+Hz
+as
+shown in  fig
+to
+2
+Connect
+demodulate the signal
+3.
+Measure the frequency of the demodulated signal, which
+must  tally with the
+modulating signal frequency:
+b)
+Right Sampling
+4.
+Adjust fc-2fm, Let fc-200 Hz:
+5
+Repeat step no 2
+6
+Note the demodulated signal frequency: (Shape of the demodulated signal
+not
+be exactly same as original message, but fundamental ftequency will match)
+Under Sampling
+7 .
+Adjust fc<2fim, fc-150 Hz
+8.
+Repeat step no 2
+Aliasing effect)
+9
+Note the demodulated signal frequency: (Observe
+SIT, Tumakuru
+572 103
+Somplinj
+2c
+Top
+67l
+671
+Ahe
+using
+Top
+Pela <
+3**
+peak
+peak
+amplitude
+peak
+peak
+_4per
+point_
+point
+will
+
+===== PAGE 17 =====
+
+Kmmharamnm
+"rmh
+TiaT itnainiiiini; HAvtiurain
+Mme
+Mulamix (a
+Mmsumi
+Ll
+Sma
+'m Yand
+'4lbp IMdmd Soami
+~L
+
+===== PAGE 18 =====
+
+SAECLOI Communlcatlon Syetems-| Lab
+IV Semesier
+Tabulur Columa:
+Type
+Fc Hz
+Fm Hz
+Vc Volts
+Vm Vults
+Fo Hz
+IOver Sampling:
+f>2fmm
+3o4hz
+0 . 46
+6
+3a8 .
+20-4k
+2 Right Sampling:
+347 . |
+fc-2fm
+8oo+
+3202
+35
+3 Under Sampling:
+fc<2fm
+500-Hz
+7444
+0.45
+1 -54
+Inference:

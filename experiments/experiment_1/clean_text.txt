@@ -1,0 +1,75 @@
+
+EXPERIMENT 1: AMPLITUDE MODULATION AND DEMODULATION
+
+SOURCE:
+Communication Systems-I Lab Manual
+Pages: 1, 2 and 3
+
+AIM:
+To conduct an experiment to generate the AM signal and to demodulate the AM signal.
+
+APPARATUS REQUIRED:
+1. IC XR2206
+2. Resistors
+3. Capacitors
+4. Diode OA79
+5. Adapters
+
+CIRCUIT:
+The AM generation and demodulation circuit is provided in the original
+lab manual on page 1. The original page image must be retained because
+the circuit diagram contains visual connection information.
+
+DESIGN / SPECIFICATIONS:
+Carrier frequency:
+fc = 100 KHz
+
+The manual provides the design relation and component selection for
+the AM circuit on page 1.
+
+PROCEDURE:
+1. Make the connections as shown in the circuit diagram.
+2. With m(t)=0, apply DC 12V (Vc + Vcc).
+3. Observe the unmodulated carrier at pin no. 2 (point A).
+4. Apply a sinusoidal message signal with minimum amplitude.
+5. Adjust the DC offset of the ASG so that the negative peak of the
+   message is approximately zero.
+6. Observe the amplitude modulated output at pin no. 2 (point A).
+7. Measure Vmax and Vmin from the AM signal and find the modulation
+   index μ. Also measure Vmax and Vmin of the carrier signal.
+8. Vary the amplitude of the modulating signal.
+9. Plot the graph of %μ/Vm versus Vm.
+10. Connect the envelope detector circuit and observe the demodulated
+    signal at point B. Compare it with m(t).
+
+MODULATION INDEX:
+The manual uses Vmax and Vmin of the AM waveform to determine the
+modulation index.
+
+The relationship is represented in the observation table on page 1.
+The original table should be consulted for measured experimental values.
+
+WAVEFORMS:
+The manual shows:
+1. Message signal m(t) with DC shift
+2. Carrier signal c(t)
+3. AM wave
+4. Demodulated wave
+
+The AM waveform envelope follows the message signal. The Vmax and Vmin
+points are marked on the AM waveform.
+
+DEMODULATION:
+The AM signal is passed through an envelope detector.
+The demodulated output is observed at point B and compared with the
+original message signal m(t).
+
+TRANSFER CHARACTERISTIC:
+The manual includes a transfer characteristic curve showing Vmax and
+Vmin and a demodulation observation table on page 3.
+
+IMPORTANT:
+The original PDF pages and page images are the authoritative source.
+OCR text is only an intermediate representation and may contain errors.
+Do not invent or automatically correct component values or experimental
+measurements when the scanned page is unclear.

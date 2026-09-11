@@ -1,0 +1,58 @@
+{
+  "1": {
+    "experiment_number": 1,
+    "experiment_name": "Amplitude Modulation and Demodulation",
+    "procedure_page": 2,
+    "source": "Laboratory Manual",
+    "text": "Semeder\nSAECLOA Cemmuntcatlon Syslema-|\nak\nDate:\nExperlment No. 1\nAmplltude Modulation and Demodulatlon\nIm: To conduct an experiment ( generale Ihe AM signal and t0 demodulate the AM <i\nApparatus required:\nSL\nApparatus\nRange\nNos\nNo.\nComponents\nIc XR22O6\n2\nResistor and\nAs per the\ndesign\nCapacitors\nDiode OA79\nAdapters\nProcedurc\n1\nConnections are made as shown in circuit diagram:\n2\nWith m()=0, apply DC +IZV (+ Vcc)\n3 ,\nObserve unmodulated carrier at pin no 2(point A)\n4.\nApply sinusoid message signal with minimum\nthat\nof the message is\nabove\n5.\nAdjust the DC offset of the ASG, so\nreference\n6_\nObserve Amplitude modulated ouput at Pin no 2(Point A)\n7\nMeasure Vmax\nVmin from the AM signal and hence\n\nrve Amplitude modulated ouput at Pin no 2(Point A)\n7\nMeasure Vmax\nVmin from the AM signal and hence find the modulation index *H'\nthe\namplitude of the carrier signal Vc and the amplitude of the message signal Vm\n(Also measure Vmax and Vmin ftom the Trapezoidal waveform)\n8.\nBy varying amplitude of the modulating signal, repeat step 7_\n9_\nPlot the graph of\nvls Vm_\n10. Connect the Envelope detector circuit and observe the demodulated signal at\nB'\nand compare it with m (t).\n9enette\ncovwres ( €c)\n2\nSiq nal\n(ar Afave\n3\ndemaddote\nMcc) =\nt62\nK42\nfst\n~ >Usr\nopocp\nPoc 3\n8\nDepartment OfE&C\nSIT, Tutukuru\n572 103\nEnal\namplitude\npeak\nnegative\n%h -\npoint\nmessoae\nVcc\n90 -\nF4y/\napa 4\nEngg:\n3( 2 \"",
+    "image": "experiments/experiment_1/page_2.png"
+  },
+  "2": {
+    "experiment_number": 2,
+    "experiment_name": "Frequency Modulation",
+    "procedure_page": 5,
+    "source": "Laboratory Manual",
+    "text": "IV Semcster\nSECLOI Communication Systems-| [ab\nDate:\nExperiment No. 2\nFrequency Modulation\nAini:\nTo conduct\nan\nexperiment\nto\ngenerate FM\nand\nto\nmeasure\nfrequency deviation,\nmodulation index and transmission bandwidth:\nApparatus required:\nSl:\nApparatus\nRange\nNos\nNo.\nComponents\n1\nIC XR2206\nResistor and\nAs per the design\n2\nCapacitors\n3\n5_\nAdapters\nProcedure:\nModulation:\nConnections are made as shown in the circuit diagram:\n1a\n2 \nWith m()-0, apply DC +1ZV (t Vcc)\nand note down the carrier sine wave of\nunmodulated carrier at pin no 2,\n3 _\nObserve\nfrequency (fc)\nundistorted\nwith suitable amplitude and frequency to\n4\nApply the modulating signal\nFM signal.\nof the carrier in FM signal (i.e , fc max\n5\n\nnd frequency to\n4\nApply the modulating signal\nFM signal.\nof the carrier in FM signal (i.e , fc max\n5.\nNote the maximum and minimum frequency\nfcmin)\ndeviation, modulation index &\nbandwidth.\n6\nFind the frequency\ndifferent values of\nVm and fm\n7\nRepeat the steps 4 to 6 for\n4<\nISokHz\n+ (1 # 6'-9))\n158k\n('_k ('~))\nrxo eoid\nr=\n6 .6k\n28\n6 &c .\nget\nand\noperation\nPc =\nIoic",
+    "image": "experiments/experiment_2/page_2.png"
+  },
+  "3": {
+    "experiment_number": 3,
+    "experiment_name": "Pulse Amplitude Modulation and Demodulation",
+    "procedure_page": 8,
+    "source": "Laboratory Manual",
+    "text": "IV Scmester\nSECLOI (ommunicalion Sstems-[ Lab\nDate:\nExperiment No: 3\nPulse Amplitude Modulation and Demodulation\nAim:\nTo design a circuit for generation and demodulation of PAM:\nApparatus Required:\nToanSis,= 6\nRange\nNos\nuSay\n0 5\n60 4ck\nSI\nNo.\nA\npparatus\nTransistor SLIOO\n<ul\nOf^\n2\nResistors\n22Kn\n4.7KO\n;\nSolve\n~~\n~lese)\n3.3KQ\n3\nCapacitors\n0.1pF\n2\nAdapters\nProcedure:\nConnections are made as shown in the circuit diagram\n13\nwave carrier signal of 2V\nto\namplitude with\n2\nApply the square\nfrequency fc = 25 kHz.\nmodulating signal with frequency fm\n=\n100 Hz with\n3_\nApply sine wave\nand 3V DC shift (ensure negative\nof the message\n5 Vpp\nis above the reference)\n4\nObserve the PAM\noutput:\ndemodulated signal\n\ne negative\nof the message\n5 Vpp\nis above the reference)\n4\nObserve the PAM\noutput:\ndemodulated signal at the output of the low pass filter and\n5.\nObserve the\ncompare it with the modulating signal\n~bdolaton\n->a\nResult:\nmt\nCan (naoo$\n~culafa\nDov r\npeak\npeak\npeak\namplitude\nFo/se",
+    "image": "experiments/experiment_3/page_2.png"
+  },
+  "4": {
+    "experiment_number": 4,
+    "experiment_name": "Pulse Width Modulation",
+    "procedure_page": 12,
+    "source": "Laboratory Manual",
+    "text": "S4E( 401 ( ommunicatlon Sysems-I Lub\nIv Seisttr\nExperiment No.\nDate\nPulse Width Modulation\nAlm: To conduct an experiment to\nstudy PWM generation.\npparatus required:\nSI;\nNo.\nApparatus\nComponents\nRange\nNos\n1\nIC SS5 Timer\n2\nResistor and\nCapacitors\nAs per the\n3 \nDiode IN4007\n4\n2\nAdapters_\nProcedure:\n1.\nConnections are made as shown in the circuit\n2 \nWith m(t)\n=\n0, switch on the\npower supply and adjust the carrier\n<\nsay 8KHz (< 1/(2*Pulse\nsignal frequency to\nwidth) .\n3,\nObserve the mono shot\noutput of SOps pulse width_\n4 .\nApply the\nsignal of\n<IKHz and\nPWM signal,\nadjust the amplitude to get the\nCheckpoint:\nat pin no.5 should be\n(2Vcc/3).\ndesign\ndiagram.\n1OKHz,\nmodulating\nfrequency\nVoltage",
+    "image": "experiments/experiment_4/page_2.png"
+  },
+  "5": {
+    "experiment_number": 5,
+    "experiment_name": "Flat Top Sampling",
+    "procedure_page": 16,
+    "source": "Laboratory Manual",
+    "text": "Aocm\n4~He_\nXampi $\nL=\n740\nS4ECLOI Communication Sslems-|\n0=\n70\nAst\n67.\nab\n{7i4\nIV\nSmesiet\nExperiment No. 5\nDute:\niL\n1_\nFlat\nSampling\nCen\n1+64\n9136\nUt\nAlm:\nTo study sampling theorem\nFlat\nSamples and t0 demodulate\n{zolI:4\nkou\nsignal_\n264)\nApparatus:\nSLNo\nAppuratus\nRangc\nQuuntity\nIC 4016\n3\nTransistor SLIOO\nResistors\n18KQ\n3.3 Kn\nKQ\n30<\n01\nCapacitor\n0.JuF\not\n4\n0€\nPte (<\ncarfc *\nProcedure:\n1. Connections are made aS shown in the circuit diagram\n2. Apply a square wave\nsampling signal of 1KHZ, 8V\nto\namplitude\n3 . Apply a sine wave\nmodulating signal of 100 Hz, LY\nto\nwith 0.6 Volts\nL\n7\n6\nDC shift.\n4. Observe PAM signal at pointA by disconnecting the Hold\ncapacitor CH:\n5\nObserve the sample and hold sig\n\nserve PAM signal at pointA by disconnecting the Hold\ncapacitor CH:\n5\nObserve the sample and hold signal at\nA after\nconnecting the capacitor CH:\n6. Observe Flat top Sampled Signal at\nB\nVerification of Sampling Theorem:\na)\nOver Sampling\n1.\nAdjust fc>2fm, Let fc= 50 KHz\nthe low\npass filter of cutoff frequency\n500\nHz\nas\nshown in fig\nto\n2\nConnect\ndemodulate the signal\n3.\nMeasure the frequency of the demodulated signal, which\nmust tally with the\nmodulating signal frequency:\nb)\nRight Sampling\n4.\nAdjust fc-2fm, Let fc-200 Hz:\n5\nRepeat step no 2\n6\nNote the demodulated signal frequency: (Shape of the demodulated signal\nnot\nbe exactly same as original message, but fundamental ftequency will match)\nUnde\n\nmodulated signal\nnot\nbe exactly same as original message, but fundamental ftequency will match)\nUnder Sampling\n7 .\nAdjust fc<2fim, fc-150 Hz\n8.\nRepeat step no 2\nAliasing effect)\n9\nNote the demodulated signal frequency: (Observe\nSIT, Tumakuru\n572 103\nSomplinj\n2c\nTop\n67l\n671\nAhe\nusing\nTop\nPela <\n3**\npeak\npeak\namplitude\npeak\npeak\n_4per\npoint_\npoint\nwill",
+    "image": "experiments/experiment_5/page_2.png"
+  },
+  "6": {
+    "experiment_number": 6,
+    "experiment_name": "Amplitude Shift Keying",
+    "procedure_page": 20,
+    "source": "Laboratory Manual",
+    "text": "6Atealre\nSF( L.0/ ( mmmumicailom *beme\nIvmie'\nExperluent No\nA\nmplltude Nhin Kevinm\nmunlulmtum\n4tid\nAlmn :\nTo\nconduci\nHmi\nexpeiimien\nio\nMdy\nAmpllude\nShlll\nK\"yink\ndemodulation and t0 determine the mlnlmnum #requency for proper detec ttm\nApparalus:\n(Qummiiy\nKkuwge\nSLNo\nAlluralus\nIc 741\n2\nIC 4051\n3\nDiode QA79\n100 K()\nResistors\n10 KS)\n5\nPOT\n0,0i\n6\nCapacitor\nProcedure:\nas shown in the\ncircuit diagram,\n10 V\n{0\n1 =\nConnections are\nof 500 Hz (IOO0 bits/sec).\nwave modulating signal\n2\nApply a square\nof 50 KHz, 5\nV\npeak-to-pcak\na sine wave carrier signal\n3.\nApply\nno 3 of IC\n4\nObserve ASK waveform at pin\ndetector and comparator:\nthe ASK signal using the envelope\nadjusting the Vref using\n5\nDemodulate\ncan\n\netector and comparator:\nthe ASK signal using the envelope\nadjusting the Vref using\n5\nDemodulate\ncan be\nminimized by\nerror in the\ndemodulated waveform\n10 KS POT}\n0(5\n< &e)\nask\nHH#\nFt\nah\nM F\npeak\npcak\nmade\namplitude.\namplitude.\n4051.\n{The",
+    "image": "experiments/experiment_6/page_2.png"
+  },
+  "7": {
+    "experiment_number": 7,
+    "experiment_name": "Phase Shift Keying",
+    "procedure_page": 24,
+    "source": "Laboratory Manual",
+    "text": "SAECLOI (ommunicalion Systems-| Lab\nIY\nSemester\nExperiment No. 7\nDate:\nPhase Shift Keying\nAim: To conduct an experiment (0 sludy Phase Shif Keying modulation.\nApparatus:\nSLNo\nApparatus\nIC 741\nRange\nQuantity\nIC CD 4051\n3\nResistors\n10 KQ\n2\nProcedure:\n13\nConnections are made as shown in the circuit diagram.\n2.\nApply\na\nsquare wave\nmodulating signal of 500 Hz (1000 bitslsec), 10 V\nto\namplitude.\n3.\nApply & sine wave carrier signal of $ KHz, 5 V\nto peak amplitude_\n4.\nObserve BPSK waveform at pin 3.\nNote: Carrier ftequency should be integer multiple of\nmessage frequency:\npeak\npeak\npeak",
+    "image": "experiments/experiment_7/page_2.png"
+  }
+}

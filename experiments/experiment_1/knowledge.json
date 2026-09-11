@@ -1,0 +1,62 @@
+{
+    "experiment": 1,
+    "title": "Amplitude Modulation and Demodulation",
+    "sections": [
+        {
+            "section": "AIM",
+            "source_pages": [
+                2
+            ],
+            "text": "To conduct an experiment to generate the AM signal and to demodulate the AM signal."
+        },
+        {
+            "section": "APPARATUS REQUIRED",
+            "source_pages": [
+                2
+            ],
+            "text": "1. IC R200? — As per the design\n2. Resistors — As per the design\n3. Diode OA79 — As per the design\n4. Adapters — 3"
+        },
+        {
+            "section": "PROCEDURE",
+            "source_pages": [
+                2
+            ],
+            "text": "\nPROCEDURE\n\n1. Connections are made as shown in circuit diagram.\n\n2. With m(t)=0, apply DC +12V (+Vcc) to ASG.\n\n3. Observe unmodulated carrier at pin no. 2 (point A).\n\n4. Apply sinusoid message signal with minimum amplitude.\n\n5. Adjust the DC offset of the ASG, so that negative peak of the message is above reference.\n\n6. Observe amplitude of modulated output at pin no. 2 (point A).\n\n7. Measure Vmax and Vmin from the AM signal and hence find the modulation index 'μ',\n   the amplitude of the carrier signal Vc and the amplitude of the message signal Vm.\n   Also measure Vmax and Vmin from the trapezoidal waveform.\n\n8. By varying amplitude of the modulation signal, repeat step 7.\n\n9. Plot the graph of %μ vs Vm/Vc.\n\n10. Connect the envelope detector circuit and observe the demodulated signal at point 'B'\n    and compare it with m(t).\n"
+        },
+        {
+            "section": "CIRCUIT",
+            "source_pages": [
+                1
+            ],
+            "text": "Circuit diagram for Amplitude Modulation and Demodulation is provided in the laboratory manual."
+        },
+        {
+            "section": "DESIGN / SPECIFICATIONS",
+            "source_pages": [
+                1
+            ],
+            "text": "The experiment design and specifications are provided in the laboratory manual."
+        },
+        {
+            "section": "WAVEFORMS",
+            "source_pages": [
+                3
+            ],
+            "text": "The laboratory manual provides AM modulation and demodulation waveforms."
+        },
+        {
+            "section": "DEMODULATION",
+            "source_pages": [
+                3
+            ],
+            "text": "The envelope detector circuit is used to observe the demodulated signal."
+        },
+        {
+            "section": "TRANSFER CHARACTERISTIC",
+            "source_pages": [
+                3
+            ],
+            "text": "The laboratory manual provides the transfer characteristic for the experiment."
+        }
+    ]
+}

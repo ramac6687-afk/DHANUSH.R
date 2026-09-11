@@ -1,0 +1,98 @@
+
+
+===== PAGE 23 =====
+
+MECLOI Communicalion Systems-] Lab
+IV
+PSK Modulation:
+SJE
+iaK
+ioK
++1S1
+(0)
+1}
+06
+(;
+NQ
+PSK
+C()
+^C
+15
+3
+12
+Nc (
+CD4DSI
+8
+NC (9
+5
+6
+NC (0
+NO
+1
+10
+A5v
+5i
+So
+9()
+J =0
+~>
+13->3
+(18" phox -
+shif)
+J - |
+7 >
+'4_3 (6" -
+Hen
+62
+Ohexc
+
+===== PAGE 24 =====
+
+SAECLOI (ommunicalion Systems-| Lab
+IY
+Semester
+Experiment No. 7
+Date:
+Phase Shift Keying
+Aim: To conduct an experiment (0 sludy Phase Shif Keying modulation.
+Apparatus:
+SLNo
+Apparatus
+IC 741
+Range
+Quantity
+IC CD 4051
+3
+Resistors
+10 KQ
+2
+Procedure:
+13
+Connections are made as shown in the circuit diagram.
+2.
+Apply
+a
+square wave
+modulating signal of 500 Hz (1000 bitslsec), 10 V
+to
+amplitude.
+3.
+Apply & sine wave carrier signal of $ KHz, 5 V
+to peak amplitude_
+4.
+Observe BPSK waveform at pin 3.
+Note: Carrier ftequency should be integer multiple of
+message frequency:
+peak
+peak
+peak
+
+===== PAGE 25 =====
+
+0
+S4E(I 01 ( ommunicat
+PSk' Modulation wavcforms:
+HHHHHHHH
+PSK
+Se
+HHALHAAHHHHAH

@@ -1,0 +1,65 @@
+{
+  "voltage_divider": [
+    {
+      "fault": "Wrong resistor value",
+      "symptom": "Output voltage is much higher or lower than the expected value.",
+      "expected_result": "For Vin = 5 V, R1 = 1 kΩ and R2 = 1 kΩ, Vout should be approximately 2.5 V.",
+      "observed_result": "Vout is approximately 4.8 V.",
+      "possible_cause": "R1 or R2 may have an incorrect resistance value.",
+      "what_to_check": [
+        "Measure R1 using a multimeter.",
+        "Measure R2 using a multimeter.",
+        "Compare the measured values with the required resistor values.",
+        "Check that the resistors are connected to the correct nodes."
+      ],
+      "corrective_action": "Replace the incorrect resistor with the correct value and verify the circuit connections.",
+      "expected_after_fix": "Vout should be close to 2.5 V."
+    },
+    {
+      "fault": "R1 and R2 swapped",
+      "symptom": "The output voltage is different from the expected voltage because the resistor positions are reversed.",
+      "expected_result": "For Vin = 5 V, R1 = 1 kΩ and R2 = 3 kΩ, Vout should be approximately 3.75 V.",
+      "observed_result": "Vout is approximately 1.25 V.",
+      "possible_cause": "R1 and R2 may have been placed in the opposite positions.",
+      "what_to_check": [
+        "Identify which resistor is connected between Vin and Vout.",
+        "Identify which resistor is connected between Vout and GND.",
+        "Measure both resistor values using a multimeter.",
+        "Compare the physical positions with the circuit diagram."
+      ],
+      "corrective_action": "Place the 1 kΩ resistor as R1 and the 3 kΩ resistor as R2 according to the circuit design.",
+      "expected_after_fix": "Vout should return close to 3.75 V."
+    },
+    {
+      "fault": "Missing ground connection",
+      "symptom": "The output voltage is incorrect, unstable, or the circuit does not behave as expected.",
+      "expected_result": "The lower resistor should be connected to the circuit ground, and the output voltage should follow the voltage divider calculation.",
+      "observed_result": "The measured output voltage is unstable or significantly different from the calculated value.",
+      "possible_cause": "The lower end of R2 may not be properly connected to GND.",
+      "what_to_check": [
+        "Check the connection between R2 and GND.",
+        "Check whether the ground wire is connected to the correct breadboard rail.",
+        "Check continuity between the circuit ground and the power supply ground.",
+        "Look for a loose jumper wire."
+      ],
+      "corrective_action": "Reconnect the lower end of R2 securely to the correct ground rail and verify the power supply ground connection.",
+      "expected_after_fix": "The output voltage should become stable and close to the calculated voltage."
+    },
+    {
+      "fault": "Loose circuit connection",
+      "symptom": "The output voltage may fluctuate, become unstable, or change when the circuit is touched or moved.",
+      "expected_result": "The voltage divider should produce a stable output voltage close to the calculated value.",
+      "observed_result": "The output voltage fluctuates or changes unexpectedly.",
+      "possible_cause": "A jumper wire, resistor leg, or breadboard connection may be loose.",
+      "what_to_check": [
+        "Check that both resistor legs are firmly inserted.",
+        "Check that jumper wires are firmly connected.",
+        "Check the breadboard power rails.",
+        "Gently inspect the circuit for connections that move.",
+        "Measure the output voltage again without disturbing the circuit."
+      ],
+      "corrective_action": "Reconnect or replace the loose wire or component connection and verify that all connections are secure.",
+      "expected_after_fix": "The output voltage should become stable and close to the calculated value."
+    }
+  ]
+}

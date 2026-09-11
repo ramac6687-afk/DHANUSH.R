@@ -1,0 +1,183 @@
+
+
+===== PAGE 11 =====
+
+9
+Sv
+SJE( L.01
+Circult
+0i ( Rmmpnicatitd
+PWm
+riment "
+R
+To conduce an C4
+01
+tratus required:
+RD
+Si
+No_
+CC
+5
+Co
+CC
+sedure:
+D2
+1ou
+Connec
+C()
+RC
+100k
+M()
+With
+410P
+3 
+Obse
+4 .
+PV
+eckp
+Design:
+I
+Monostable
+Multivibrator:
+Pulse width
+50us
+Specification:
+Pulse width = 1.IRC
+C =0.OluF, then R = 4.SKQ
+Select R = 4.7KQ
+II Differentiator:
+Specification:
+fc =
+1OKHz
+T=i=
+10Ous
+fc
+T
+RpCo<<T} , where Tl
+=
+2
+Let RpCv = 0.1 Tl = Sus
+Assume CD
+=
+0.00lF, then
+SKQ
+Select RD
+=
+4.7KQ
+Diode D1 is used to
+the differentiated
+signal to Vcc,
+Stcis
+(ommunicellon
+Dingram:
+555
+APi
+Ro =
+clamp
+
+===== PAGE 12 =====
+
+S4E( 401 ( ommunicatlon Sysems-I Lub
+Iv Seisttr
+Experiment No.
+Date
+Pulse Width Modulation
+Alm: To conduct an experiment to
+study PWM generation.
+pparatus required:
+SI;
+No.
+Apparatus
+Components
+Range
+Nos
+1
+IC SS5 Timer
+2
+Resistor and
+Capacitors
+As per the
+3 
+Diode IN4007
+4
+2
+Adapters_
+Procedure:
+1.
+Connections are made as shown in the circuit
+2 
+With m(t)
+=
+0, switch on the
+power supply and adjust the carrier
+<
+say 8KHz (< 1/(2*Pulse
+signal frequency to
+width) .
+3,
+Observe the mono shot
+output of SOps pulse width_
+4 .
+Apply the
+signal of
+<IKHz and
+PWM signal,
+adjust the amplitude to get the
+Checkpoint:
+at pin no.5 should be
+(2Vcc/3).
+design
+diagram.
+1OKHz,
+modulating
+frequency
+Voltage
+
+===== PAGE 13 =====
+
+S4E( [01 Communication Systers-I Lub
+Tahular Column:
+Unmodulated Pulse width
+44
+HS:
+HECLOI
+fc
+Modulating wave
+Demodulated wave
+Ioferenc
+Hz
+frequency(fm) Hz
+frequency(fo) Hz
+Waveform:
+m(t)
+at
+pin no. 5
+c(t)
+PWM wave
+HH
+with
+=0
+PWM wave
+with m() # 0
+Signal
+m(t) -
+
+===== PAGE 14 =====
+
+S46( [ 01 ( ommunicailon S>stemt-| |a0
+iv #imte
+Inference:
+8 . 9 Ykc +z
+444s
+0.u+a ( mce) =o]
+aid+h
+Tfo>
+84us
+74sc
+Sq
+0ld -h
+7in
+345
+{<=
+plse
+Pol=
